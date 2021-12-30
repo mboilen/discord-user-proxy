@@ -1,0 +1,23 @@
+{
+  "name": "discord-user-proxy",
+  "version": "1.0.0",
+  "description": "Proxies Discord's @me to allow additional authentication for OAuth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mboilen/discord-user-proxy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mboilen/discord-user-proxy/issues"
+  },
+  "homepage": "https://github.com/mboilen/discord-user-proxy#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
